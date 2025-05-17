@@ -1,7 +1,6 @@
 import functions
 import time
 
-print("This is the current date and time:")
 now = time.strftime("%d-%b-%Y %H:%M:%S")
 print("It is", now)
 print("Welcome to your todo app!")
