@@ -1,0 +1,4 @@
+FreeSimpleGUI
+pyinstaller
+streamlit
+

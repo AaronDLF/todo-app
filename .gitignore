@@ -5,3 +5,6 @@ bonus
 exercises
 experiments
 journal
+build/
+dist/
+*.spec
